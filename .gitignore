@@ -1,3 +1,11 @@
+*.iml         # IntelliJ project/module files
+*.class       # Java bytecode
+*.log         # Логи
+*.jar         # JAR-файлы, если не собираешься их хранить
+target/       # Maven (если используешь)
+build/        # Gradle
+.idea/        # Папка IntelliJ
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
